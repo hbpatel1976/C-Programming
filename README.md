@@ -9,6 +9,6 @@ Chapter 4: Looping Statements
             break-continue statement (ch04cb01.c to ch04cb18.c)
 Chapter 5: Array & Strings
 Chapter 6: Function
-Chapter 7: Structure
+Chapter 7: Structure (Ch0601.c to 0619.c)
 Chapter 8: Pointer
 Chapter 9: File Management
